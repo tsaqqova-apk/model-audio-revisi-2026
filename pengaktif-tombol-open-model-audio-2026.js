@@ -1,0 +1,12 @@
+document.getElementById("042-revisi-2026").hidden = false;
+document.getElementById("059").hidden = false;
+document.getElementById("065-revisi-2026").hidden = false;
+document.getElementById("076-revisi-2026").hidden = false;
+document.getElementById("077-revisi-2026").hidden = false;
+document.getElementById("087-revisi-2026").hidden = false;
+document.getElementById("096-revisi-2026").hidden = false;
+document.getElementById("104-revisi-2026").hidden = false;
+document.getElementById("118-revisi-2026").hidden = false;
+document.getElementById("120-revisi-2026").hidden = false;
+document.getElementById("130-revisi-2026").hidden = false;
+document.getElementById("135-revisi-2026").hidden = false;
