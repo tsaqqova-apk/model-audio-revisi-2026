@@ -235,7 +235,7 @@ mainAudio.addEventListener("ended", ()=>{
 /* Show music list onclick of music icon! */
 tutupBagianAudio.addEventListener("click", ()=>{
 
-	location.href = "https://play.google.com/store/apps/dev?id=7855387885472827190";
+	//location.href = "https://play.google.com/store/apps/dev?id=7855387885472827190";
 });
 const ulTag = bagianutamaaudio.querySelector("ul");
 /* Let create li tags according to array length for list! */
